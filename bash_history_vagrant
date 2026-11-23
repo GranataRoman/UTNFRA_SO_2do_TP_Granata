@@ -1,0 +1,13 @@
+sudo update
+sudo apt update
+apt install -y git
+sudo apt install -y git
+git --V
+git --version
+sudo adduser roman
+sudo usermod -aG sudo roman
+su - roman
+exit
+su - roman
+exit
+su - roman
